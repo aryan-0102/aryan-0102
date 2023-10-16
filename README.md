@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Aryan Dhasmana <br><br>- 🔭 I’m a Undergraduate Student at Chandigarh University<br>- 📚 I'm currently learning Machine Learning and some new languages<br>- ⚡Proficient in Hindi , English and  working proficiency in German  </p>
 
 ###
 
